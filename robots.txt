@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wildpsyduk-tech.github.io/Avaguraana/sitemap.xml
